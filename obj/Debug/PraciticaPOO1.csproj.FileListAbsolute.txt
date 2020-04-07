@@ -1,0 +1,9 @@
+C:\Users\Marcos\Google Drive\2019\DAM\PROGRAMACION\PraciticaPOO1\obj\Debug\PraciticaPOO1.csprojAssemblyReference.cache
+C:\Users\Marcos\Google Drive\2019\DAM\PROGRAMACION\PraciticaPOO1\obj\Debug\PraciticaPOO1.Form1.resources
+C:\Users\Marcos\Google Drive\2019\DAM\PROGRAMACION\PraciticaPOO1\obj\Debug\PraciticaPOO1.Properties.Resources.resources
+C:\Users\Marcos\Google Drive\2019\DAM\PROGRAMACION\PraciticaPOO1\obj\Debug\PraciticaPOO1.csproj.GenerateResource.cache
+C:\Users\Marcos\Google Drive\2019\DAM\PROGRAMACION\PraciticaPOO1\bin\Debug\PraciticaPOO1.exe.config
+C:\Users\Marcos\Google Drive\2019\DAM\PROGRAMACION\PraciticaPOO1\bin\Debug\PraciticaPOO1.exe
+C:\Users\Marcos\Google Drive\2019\DAM\PROGRAMACION\PraciticaPOO1\bin\Debug\PraciticaPOO1.pdb
+C:\Users\Marcos\Google Drive\2019\DAM\PROGRAMACION\PraciticaPOO1\obj\Debug\PraciticaPOO1.exe
+C:\Users\Marcos\Google Drive\2019\DAM\PROGRAMACION\PraciticaPOO1\obj\Debug\PraciticaPOO1.pdb
